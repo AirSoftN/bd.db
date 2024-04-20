@@ -1,7 +1,7 @@
 # bd.db افضل بكج قاعدة البيانات
 
 <div style="text-align: center;">
-    <a href="https://discord.gg/d-dev"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" alt="Discord" style="width: 100px; height: 100px;"></a>
+    <a href="https://discord.gg/d-dev"><img src="https://banner2.cleanpng.com/20180512/hww/kisspng-discord-computer-icons-logo-computer-software-5af6ee332653a4.233802591526132275157.jpg" alt="Discord" style="width: 100px; height: 100px;"></a>
     <a href="https://www.npmjs.com/package/bd.db"><img src="https://i.imgur.com/lywzaAd.png" alt="NPM" style="width: 100px; height: 100px;"></a>
     <a href="https://github.com/KhattabKHA5/bd.db"><img src="https://i.imgur.com/oi59Mz4.png" alt="GitHub" style="width: 100px; height: 100px;"></a>
 </div>
