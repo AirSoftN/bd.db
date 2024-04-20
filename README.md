@@ -1,5 +1,16 @@
 # bd.db افضل بكج قاعدة البيانات
 
+<div style="text-align: center;">
+    <a href="https://discord.gg/d-dev"><img src="https://i.imgur.com/Zp5z7WX.png" alt="Discord" style="width: 100px; height: 100px;"></a>
+    <a href="https://www.npmjs.com/package/bd.db"><img src="https://i.imgur.com/lywzaAd.png" alt="NPM" style="width: 100px; height: 100px;"></a>
+    <a href="https://github.com/KhattabKHA5/bd.db"><img src="https://i.imgur.com/oi59Mz4.png" alt="GitHub" style="width: 100px; height: 100px;"></a>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/npm/v/bd.db" alt="Version">
+  <img src="https://img.shields.io/npm/dt/bd.db" alt="Downloads">
+</div>
+
 <h1 style="text-align: center; font-size: 36px; color: #4CAF50;">bkdb Package</h1>
 
 <p style="text-align: center;">.</p>
