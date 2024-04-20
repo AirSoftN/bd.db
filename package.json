@@ -1,1 +1,64 @@
-
+{
+  "name": "bd-db",
+  "version": "1.0.0",
+  "description": "A powerful and flexible database library for Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KhattabKHA5/bd-db"
+  },
+  "keywords": [
+    "database",
+    "node",
+    "library",
+    "bddb",
+    "bestdb",
+    "dbqua",
+    "unadb",
+    "bd.db",
+    "quality",
+    "prem",
+    "discord",
+    "data",
+    "save",
+    "add",
+    "set",
+    "delete",
+    "push",
+    "stract",
+    "kill",
+    "get",
+    "bestbd",
+    "can",
+    "bestquality",
+    "bestdatabase",
+    "13f5owner",
+    "13f5-bestPorg",
+    "Programing",
+    "helpData",
+    "helshot",
+    "MidlegK",
+    "CanIcan",
+    "uadb",
+    "bd.db.database",
+    "saveing.database",
+    "if-save",
+    "help-save",
+    "best-saver",
+    "best-13f5",
+    "KhattabKHA5",
+    "bd.db/KhattabKHA5"
+  ],
+  "author": "13f5",
+  "license": "MIT",
+  "bugs": "https://github.com/KhattabKHA5/bd-db/issues",
+  "homepage": "https://github.com/KhattabKHA5/bd-db#README",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
