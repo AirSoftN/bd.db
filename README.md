@@ -110,7 +110,7 @@ console.log(db.get('na3san_points'));// Output &lt; 0 &gt;</code></pre>
 
 # Installation
 
-استخدم npm أو الغزل للتثبيت `qd.db` package :
+استخدم npm أو الغزل للتثبيت `bd.db` package :
 
 ```
 npm install bd.db
