@@ -19,21 +19,21 @@
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">installation</h2>
 
-<p style="text-align: center;">use npm or yarn to install <code>bddb</code> package :</p>
+<p style="text-align: center;">use npm or yarn to install <code>bd-db</code> package :</p>
 
-<pre style="text-align: center;"><code>npm install bddb</code></pre>
-<pre style="text-align: center;"><code>yarn add bddb</code></pre>
+<pre style="text-align: center;"><code>npm install bd-db</code></pre>
+<pre style="text-align: center;"><code>yarn add bd-db</code></pre>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">instillation</h2>
 
 <h3 style="text-align: center; font-size: 20px;">JavaScript example</h3>
 
-<pre style="text-align: center;"><code>const { bddb } = require('bddb');</code></pre>
+<pre style="text-align: center;"><code>const { bddb } = require('bd-db');</code></pre>
 <pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h3 style="text-align: center; font-size: 20px;">TypeScript example</h3>
 
-<pre style="text-align: center;"><code>import { bddb } from 'bkdb'</code></pre>
+<pre style="text-align: center;"><code>import { bddb } from 'bd-db'</code></pre>
 <pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">Usage</h2>
@@ -86,11 +86,11 @@ db.push('s', 'soso');
 console.log(db.get('A'));//Output &lt; foto &gt;
 console.log(db.get('B'));//Output &lt; ["boto", "soso"] &gt;
 db.add('pointa', 19);
-db.add('na3san_points', 2);
+db.add('pointa', 2);
 console.log(db.get('na3san_points')); &lt;  &gt;
 db.subtract('pointa', 10);
 db.subtract('pointa', 5);
-console.log(db.get('na3san_points'));// Output &lt; 0 &gt;</code></pre>
+console.log(db.get('pointa'));// Output &lt; 0 &gt;</code></pre>
 
 <h3 style="text-align: center; font-size: 20px;">How to use <code>delete('key')</code>:</h3>
 
@@ -108,13 +108,13 @@ console.log(db.get('na3san_points'));// Output &lt; 0 &gt;</code></pre>
 
 # Installation
 
-استخدم npm أو الغزل للتثبيت `bd.db` package :
+استخدم npm أو الغزل للتثبيت `bd-db` package :
 
 ```
-npm install bd.db
+npm install bd-db
 ```
 ```
-yarn add bd.db
+yarn add bd-db
 ```
 
 # التثبيتات
@@ -122,14 +122,14 @@ yarn add bd.db
 ## Javascript مثال
 
 ```js
-const { bdbd } = require('bd.db');
+const { bdbd } = require('bd-db');
 const db = new bdbd('database.json');//Specify a file to be the database
 ```
 
 ## Typescript مثال
 
 ```ts
-import { bdbd } from 'bd.db'
+import { bdbd } from 'bd-db'
 const db = new bdbd('database.json'); // حدد ملفًا ليكون قاعدة البيانات
 ```
 
@@ -230,13 +230,13 @@ db.clearAll(); // مسح كافة البيانات المخزنة في قاعد�
 
 # Installation
 
-استخدم npm أو الغزل لتثبيت الحزمة `bd.db` :
+استخدم npm أو الغزل لتثبيت الحزمة `bd-db` :
 
 ```
-npm install bd.db
+npm install bd-db
 ```
 ```
-yarn add bd.db
+yarn add bd-db
 ```
 
 # التثبيتات
@@ -244,14 +244,14 @@ yarn add bd.db
 ## Javascript مثال
 
 ```js
-const { bddb } = require('bd.db');
+const { bddb } = require('bd-db');
 const db = new bddb('database.json'); // حدد ملف عشان تحفظ فيه البيانات
 ```
 
 ##  مثال  TypeScript
 
 ```ts
-import { bddb } from 'bd.db'
+import { bddb } from 'bd-db'
 const db = new bddb('database.json'); // حدد ملفًا ليكون قاعدة البيانات
 ```
 
