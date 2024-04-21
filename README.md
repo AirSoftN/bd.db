@@ -19,22 +19,22 @@
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">installation</h2>
 
-<p style="text-align: center;">use npm or yarn to install <code>bkdb</code> package :</p>
+<p style="text-align: center;">use npm or yarn to install <code>bddb</code> package :</p>
 
-<pre style="text-align: center;"><code>npm install bkdb</code></pre>
-<pre style="text-align: center;"><code>yarn add bkdb</code></pre>
+<pre style="text-align: center;"><code>npm install bddb</code></pre>
+<pre style="text-align: center;"><code>yarn add bddb</code></pre>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">instillation</h2>
 
 <h3 style="text-align: center; font-size: 20px;">JavaScript example</h3>
 
-<pre style="text-align: center;"><code>const { bkdb } = require('bkdb');</code></pre>
-<pre style="text-align: center;"><code>const db = new bkdb('database.json'); // Specify a file to be the database</code></pre>
+<pre style="text-align: center;"><code>const { bddb } = require('bddb');</code></pre>
+<pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h3 style="text-align: center; font-size: 20px;">TypeScript example</h3>
 
-<pre style="text-align: center;"><code>import { bkdb } from 'bkdb'</code></pre>
-<pre style="text-align: center;"><code>const db = new bkdb('database.json'); // Specify a file to be the database</code></pre>
+<pre style="text-align: center;"><code>import { bddb } from 'bkdb'</code></pre>
+<pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">Usage</h2>
 
