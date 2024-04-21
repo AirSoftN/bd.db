@@ -1,4 +1,4 @@
-# bd.db افضل بكج قاعدة البيانات
+# bd-db افضل بكج قاعدة البيانات
 
 <div style="text-align: center;">
     <a href="https://discord.gg/d-dev"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" alt="Discord" style="width: 100px; height: 100px;"></a>
