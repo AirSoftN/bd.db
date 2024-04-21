@@ -2,20 +2,20 @@
 
 <div style="text-align: center;">
     <a href="https://discord.gg/d-dev"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" alt="Discord" style="width: 100px; height: 100px;"></a>
-    <a href="https://www.npmjs.com/package/bd.db"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1080px-Npm-logo.svg.png" alt="NPM" style="width: 100px; height: 100px;"></a>
+    <a href="https://www.npmjs.com/package/bd-db"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1080px-Npm-logo.svg.png" alt="NPM" style="width: 100px; height: 100px;"></a>
     <a href="https://github.com/KhattabKHA5/bd.db"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" style="width: 100px; height: 100px;"></a>
 </div>
 
 <div style="text-align: center;">
-  <img src="https://img.shields.io/npm/v/bd.db" alt="Version">
-  <img src="https://img.shields.io/npm/dt/bd.db" alt="Downloads">
+  <img src="https://img.shields.io/npm/v/bd-db" alt="Version">
+  <img src="https://img.shields.io/npm/dt/bd-db" alt="Downloads">
 </div>
 
 <h1 style="text-align: center; font-size: 36px; color: #4CAF50;">bkdb Package</h1>
 
 <p style="text-align: center;">.</p>
 
-<p style="text-align: center;"><a href="https://www.npmjs.com/package/bd.db"><strong>NPM</strong></a></p>
+<p style="text-align: center;"><a href="https://www.npmjs.com/package/bd-db"><strong>NPM</strong></a></p>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">installation</h2>
 
@@ -33,7 +33,7 @@
 
 <h3 style="text-align: center; font-size: 20px;">TypeScript example</h3>
 
-<pre style="text-align: center;"><code>import { bddb } from 'bddb'</code></pre>
+<pre style="text-align: center;"><code>import { bddb } from 'bkdb'</code></pre>
 <pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">Usage</h2>
@@ -105,8 +105,6 @@ console.log(db.get('na3san_points'));// Output &lt; 0 &gt;</code></pre>
 <pre style="text-align: center;"><code>db.clearAll(); // Clear all the data stored in the database</code></pre>
 
 <p style="text-align: center;"><strong>All copyrights for bdDev</strong></p>
-
-**[NPM](https://www.npmjs.com/package/bd.db)**
 
 # Installation
 
@@ -229,7 +227,6 @@ How to use `clearAll()` :
 db.clearAll(); // مسح كافة البيانات المخزنة في قاعدة البيانات
 ```
 
-**[NPM](https://www.npmjs.com/package/bd.db)**
 
 # Installation
 
