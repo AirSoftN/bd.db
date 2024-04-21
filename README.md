@@ -28,12 +28,12 @@
 
 <h3 style="text-align: center; font-size: 20px;">JavaScript example</h3>
 
-<pre style="text-align: center;"><code>const { bddb } = require('bd-db');</code></pre>
+<pre style="text-align: center;"><code>const bddb = require('bd-db');</code></pre>
 <pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h3 style="text-align: center; font-size: 20px;">TypeScript example</h3>
 
-<pre style="text-align: center;"><code>import { bddb } from 'bd-db'</code></pre>
+<pre style="text-align: center;"><code>import  bddb  from 'bd-db'</code></pre>
 <pre style="text-align: center;"><code>const db = new bddb('database.json'); // Specify a file to be the database</code></pre>
 
 <h2 style="text-align: center; font-size: 24px; color: #4CAF50;">Usage</h2>
