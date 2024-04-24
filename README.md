@@ -8,7 +8,7 @@
 
 <div style="text-align: center;">
   <img src="https://img.shields.io/npm/v/bd-db" alt="Version">
-  <img src="https://img.shields.io/npm/dt/bd-db" alt="Downloads">
+  <img src="https://img.shields.io/npm/dt/qd.db" alt="Downloads">
 </div>
 
 <h1 style="text-align: center; font-size: 36px; color: #4CAF50;">bkdb Package</h1>
